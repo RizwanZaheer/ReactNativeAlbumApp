@@ -12,6 +12,7 @@ import {
 import Header from './src/components/Header';
 import AlbumList from './src/components/AlbumList';
 
+
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
     'Cmd+D or shake for dev menu',
